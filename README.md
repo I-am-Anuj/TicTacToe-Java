@@ -54,7 +54,9 @@ This project is licensed under the MIT License. Feel free to use, modify, and di
 
     GitHub: I-am-Anuj
 
-    LinkedIn: Coming Soon!
+    LinkedIn: https://www.linkedin.com/in/anuj-codes/
+
+   Twitter: https://x.com/anujk396590
 
 
 ---
